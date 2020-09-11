@@ -1,4 +1,4 @@
-# Covid_19_React_Js
+# SpotifyCLone_React
 - A web apllication developed using React.js framework.
 - Firebase is used for deployment purposes.
 - In this app, <b>disease.sh</b> is used to fetch live data for covid-19 all over the world.
