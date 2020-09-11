@@ -1,13 +1,13 @@
 # SpotifyClone_React
 - A web apllication developed using React.js framework.
 - Firebase is used for deployment purposes.
-- In this app, <b>disease.sh</b> is used to fetch live data for covid-19 all over the world.
+- In this app, <b>Spotify APi</b> is used to fetch live data for usrs's account corresponding to the passed client id.
 - Packages: 
-    - <b>material-ui</b> for styling the application.
-    - <b>react-chartjs-2</b> for integrating charts in the application.
-    - <b>react-leaflet</b> for including maps.
-- Basically, by using this app an user can see the worldwide covid-19 cases.
-- Also, there is an option to view covid cases specefic to some country by using dopdown menu.
+    - <b>material-ui/core</b> for styling the application.
+    - <b>spotify-web-api-js</b> a JavaScript wrapper around the available Spotify api's.
+    - <b>material-ui/icons</b> for including Material UI icons.
+- By using this app an user can view his spotify profile like playlist, songs in those playlist(for which id has been passed).
+- Also, user can use this app as controlling his/her spotify account over the devices added on spotify recognised deveices.
 - This web application is hosted on https://spotify-clone-48d75.web.app
 
 ## Available Scripts
