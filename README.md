@@ -1,4 +1,4 @@
-# SpotifyCLone_React
+# SpotifyClone_React
 - A web apllication developed using React.js framework.
 - Firebase is used for deployment purposes.
 - In this app, <b>disease.sh</b> is used to fetch live data for covid-19 all over the world.
@@ -8,7 +8,7 @@
     - <b>react-leaflet</b> for including maps.
 - Basically, by using this app an user can see the worldwide covid-19 cases.
 - Also, there is an option to view covid cases specefic to some country by using dopdown menu.
-- This web application is hosted on https://covid-19-react-b9714.web.app/
+- This web application is hosted on https://spotify-clone-48d75.web.app
 
 ## Available Scripts
 
